@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/DS1/Documents/2026-I2DS/Aula-01/POO/POO.csproj",
+      "projectUniqueName": "/Users/DS1/Documents/2026-I2DS/Aula-02/POO/POO.csproj",
       "projectName": "POO",
-      "projectPath": "/Users/DS1/Documents/2026-I2DS/Aula-01/POO/POO.csproj",
+      "projectPath": "/Users/DS1/Documents/2026-I2DS/Aula-02/POO/POO.csproj",
       "packagesPath": "/Users/DS1/.nuget/packages/",
-      "outputPath": "/Users/DS1/Documents/2026-I2DS/Aula-01/POO/obj/",
+      "outputPath": "/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/DS1/.nuget/NuGet/NuGet.Config"
