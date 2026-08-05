@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/bin/Debug/net10.0/Exercicio-09
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/bin/Debug/net10.0/Exercicio-09.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/bin/Debug/net10.0/Exercicio-09.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/bin/Debug/net10.0/Exercicio-09.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/bin/Debug/net10.0/Exercicio-09.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/refint/Exercicio-09.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/Exercicio-09.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Exercicios/Exercicio-09/obj/Debug/net10.0/ref/Exercicio-09.dll

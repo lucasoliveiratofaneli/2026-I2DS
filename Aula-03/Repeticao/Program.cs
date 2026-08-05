@@ -39,7 +39,7 @@
             contador++;
         }
 
-        /* Solicitar a sehna até acertar */
+        /* Solicitar a senha até acertar */
 
         string senha = "";
         while(senha != "2444")

@@ -18,7 +18,7 @@
 
         string operacao;
 
-        Console.Write("Selecione uma Operação");
+        Console.Write("Selecione uma Operação: ");
         operacao = Console.ReadLine();
 
         switch (operacao)
@@ -43,4 +43,4 @@
                 break;
         }
     }
-}
+} 
