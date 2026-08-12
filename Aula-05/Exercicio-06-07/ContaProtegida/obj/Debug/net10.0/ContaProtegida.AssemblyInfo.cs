@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContaProtegida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad5464a16e51097bf39ba4bc68775349bce32059")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd14ff0e7098f973f72690e60ac3112c59a88e99")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContaProtegida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContaProtegida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
