@@ -89,7 +89,7 @@ internal class Program
         Console.WriteLine();
         Console.WriteLine($"Nome: {colaboradorMenorS.Nome} - Salário R$: {colaboradorMenorS.Salario} - Data de Registo: {colaboradorMenorS.DataRegistro}");
 
-    Console.WriteLine("\n=== PRIMEIRO CCOLABORADOR DA LISTA ===");
+    Console.WriteLine("\n=== PRIMEIRO COLABORADOR DA LISTA ===");
     var primeiro = listaColab.FirstOrDefault();
         Console.WriteLine();
         Console.WriteLine($"Nome: {primeiro.Nome} - Salário R$: {primeiro.Salario} - Data de Registo: {primeiro.DataRegistro}");
